@@ -1,4 +1,4 @@
-Feature: TBM Login 1
+Feature: TBM Login 2
 
   Scenario: Navigate to TBM Portal
     Given Navigate to URL 'http://cnamdev-sms-tbm-web02.de.neustar.com/'
